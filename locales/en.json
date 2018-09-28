@@ -1,0 +1,7 @@
+{
+	"greeting": "Hi! I'm your chatbot.",
+	"promptLocation": "Please select your location.",
+	"promptLocationRetry": "Please choose from suggested options.",
+	"confirmCancel": "This will terminate current dialog, please confirm.",
+"stopped": "Dialog terminated."
+}
